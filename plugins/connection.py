@@ -1,5 +1,5 @@
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
+# with Love @KANHADeveloper 💘
+# Subscribe YT @KANHADeveloper - to learn more about this for free...
 
 from pyrogram import filters, Client, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
