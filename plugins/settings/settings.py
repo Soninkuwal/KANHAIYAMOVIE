@@ -1,5 +1,5 @@
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
+# with Love @KANHADeveloper 💘
+# Subscribe YT @KANHADeveloper - to learn more about this for free...
 
 import asyncio
 from info import LOGGER
@@ -45,5 +45,5 @@ async def OpenSettings(m: "types.Message"):
     except Exception as err:
         LOGGER.getLogger(__name__).error(err)
 
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
+# with Love @KANHADeveloper 💘
+# Subscribe YT @KANHADeveloper - to learn more about this for free...
