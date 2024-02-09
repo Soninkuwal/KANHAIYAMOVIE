@@ -34,14 +34,14 @@ from plugins import web_server
 
 import asyncio
 from pyrogram import idle
-from lazybot import LazyPrincessBot
+from lazybot import KANHADeveloperBot
 
 from util.keepalive import ping_server
 from lazybot.clients import initialize_clients
 
 
 PORT = "8080"
-LazyPrincessBot.start()
+KANHADeveloperBot.start()
 loop = asyncio.get_event_loop()
 
 
