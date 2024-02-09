@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+  <img src="https://graph.org/file/75496bc54da062159a103.jpg" alt="KANHA  Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> KANHA Movie BOT </b>
 </h1>
 
 ## ⚡️Features
@@ -12,7 +12,7 @@
     - [+] ⚡️ Added `file renaming` feature ⚡️
       - super premium repo...
     - [+] ⚡️ Support 2GB + Files ⚡️
-    - [+] ⚡️ [Watch Latest Tutorial](https://youtube.com/LazyDeveloperr)  ⚡️
+    - [+] ⚡️ [Watch Latest Tutorial](https://t.me/Sonickuwalupdate)  ⚡️
 - [x] Auto Filter
 - [x] Manual Filter
 - [x] IMDB
@@ -29,7 +29,7 @@
 
 ## Variables
 
-Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up with your edits.
+Read [this](http://t.me/Chatkanhabot) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -126,19 +126,19 @@ python3 bot.py
 
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](http://t.me/Chatkanhabot)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](http://t.me/Chatkanhabot)
 
 ## Credits 
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
+* [![KANHADeveloper-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](http://t.me/Chatkanhabot)
 
 
 ## Thanks to 
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding amazing `url uploadig feature` 🎉
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding `online file streaming feature` 🎉
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding `file renaming feature` 🎉
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for keeping this `super premium repo` for `free` ❤
+ - Thank you [KANHADeveloper](https://github.com/Soninkuwal) for helping us in this journey ❤
+ - Thank you [KANHADeveloper](https://github.com/Soninkuwal) for adding amazing `url uploadig feature` 🎉
+ - Thank you [KANHADeveloper](https://github.com/Soninkuwal) for adding `online file streaming feature` 🎉
+ - Thank you [KANHADeveloper](https://github.com/Soninkuwal) for adding `file renaming feature` 🎉
+ - Thank you [KANHADeveloper](https://github.com/Soninkuwal) for keeping this `super premium repo` for `free` ❤
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
@@ -146,24 +146,15 @@ python3 bot.py
 
 ### Note
 
-[Join Main Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper 🎁
-
-
-### 🔗 important_Links
-- [🤩 Create Auto Filter BOT](https://www.youtube.com/playlist?list=PLZHPDcp3Vkih9GDM7BUJ1UF988n23Ua__)
-- [۞ Repo Editing Tutorials](https://www.youtube.com/playlist?list=PLZHPDcp3Vkiid03NJtFpi8gIov-QJMolK)
-- [🤩 Error Handling Videos](https://www.youtube.com/playlist?list=PLZHPDcp3VkigMWoTjujScuhFLCl1jl-ah)
-- [۞ Create FILE TO LINK BOT](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
-- [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
-- [❣️ Join Youtube](https://www.youtube.com/@LazyDeveloperr)
+[Join Main Channel](https://t.me/Sonickuwalupdate): Sonickuwalupdate 🎁
 
 
 #### 🧡 Respecting... 🧡
-- [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
+- [🔥 KANHADeveloper](https://github.com/Soninkuwal) 
 
 ### 🤩 INSPIRATION
-<a href="https://telegram.dog/LazyPrincessX_BOT">
-   <p>❣️ LazyPrincess 🔥</p>
+<a href="http://t.me/Chatkanhabot">
+   <p>❣️ KANHADeveloper 🔥</p>
 </a>
 
 
