@@ -1,6 +1,6 @@
-    # Credit @LazyDeveloper.
+    # Credit @KANHADeveloper.
     # Please Don't remove credit.
-        # Born to make history @LazyDeveloper !
+        # Born to make history @KANHADeveloper !
 
     # Thank you LazyDeveloper for helping us in this Journey
 
