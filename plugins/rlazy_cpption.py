@@ -1,8 +1,12 @@
-    # Credit @LazyDeveloper.
-    # Please Don't remove credit.
-        # Born to make history @LazyDeveloper !
+# Credit @KANHADeveloper.
 
-    # Thank you LazyDeveloper for helping us in this Journey
+# Please Don't remove credit.
+
+# Born to make history @KANHADeveloper !
+# Thank you KANHADeveloper for helping us in this Journey
+# 🥰  Thank you for giving me credit @KANHADeveloper  🥰
+# for any error please contact me -> telegram@KANHADeveloper or insta @KANHADeveloper 
+# rip paid developers 🤣 - >> No need to buy paid source code while @KANHADeveloper is here 😍😍
 from pyrogram import Client, filters
 from database.users_chats_db import db
 
