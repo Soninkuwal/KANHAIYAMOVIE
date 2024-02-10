@@ -1,11 +1,10 @@
-# Taken from megadlbot_oss <https://github.com/eyaadh/megadlbot_oss/blob/master/mega/webserver/routes.py>
-# Thanks to Eyaadh <https://github.com/eyaadh>
-# Credit @LazyDeveloper.
+# Credit @KANHADeveloper.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
+# Born to make history @KANHADeveloper !
+# Thank you KANHADeveloper for helping us in this Journey
+# 🥰  Thank you for giving me credit @KANHADeveloper  🥰
+# for any error please contact me -> telegram@KANHADeveloper or insta @KANHADeveloper 
+# rip paid developers 🤣 - >> No need to buy paid source code while @KANHADeveloper is here 😍😍 
 
 
 import re
