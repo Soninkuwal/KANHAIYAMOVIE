@@ -1,10 +1,16 @@
-# Credit @LazyDeveloper.
+# Credit @KANHADeveloper.
+
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+
+# Born to make history @KANHADeveloper !
+
+# Thank you KANHADeveloper for helping us in this Journey
+
+# 🥰  Thank you for giving me credit @KANHADeveloper  🥰
+
+# for any error please contact me -> telegram@KANHADeveloper or insta @KANHADeveloper 
+
+# rip paid developers 🤣 - >> No need to buy paid source code while @KANHADeveloper is here 😍😍
 
 def get_readable_time(seconds: int) -> str:
     count = 0
