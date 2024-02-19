@@ -84,8 +84,8 @@ MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "+qAxoGBvSc34yNmU1") 
 
 # Url Shortner
 URL_MODE = is_enabled((environ.get("URL_MODE","True")), True)
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', "link2cash.in") #Always use website url from api section 
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', "d3d09aef189fee4299f3e3dd2dac6823148da64e")
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', "seturl.in") #Always use website url from api section 
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', "cc9b50e7761907282b21e24ead6dd5d9f621218a")
 LZURL_PRIME_USERS = [int(lazyurlers) if id_pattern.search(lazyurlers) else lazyurlers for lazyurlers in environ.get('LZURL_PRIME_USERS', '1664376941').split()]
 lazy_groups = environ.get('LAZY_GROUPS','')
 LAZY_GROUPS = [int(lazy_groups) for lazy_groups in lazy_groups.split()] if lazy_groups else None # ADD GROUP ID IN THIS VARIABLE
